@@ -95,7 +95,7 @@ Shree Hanuman Vidyalaya, Mandedurg
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Bajarang2002&show_icons=true&theme=tokyonight" />
+  <img src="https://github.com/Bajarang2002&show_icons=true&theme=tokyonight" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bajarang2002&layout=compact&theme=tokyonight" />
 </p>
 
