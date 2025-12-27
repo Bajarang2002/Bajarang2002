@@ -1,16 +1,15 @@
-<!-- Profile Header -->
-<h1 align="center">Hi there, I'm Bajarang Dhamanekar 👋</h1>
-<h3 align="center">🚀 Data Science Enthusiast| Artificial Intelligence and Machine Learning </h3>
+<h1 align="center">Hi, I'm Bajarang Dhamanekar 👋</h1>
+<h3 align="center">Data Scientist| Data Analyst|Python Developer| AI & Machine Learning Engineer</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/bajarang-dhamanekar/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat-square" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:dhamanekarbajarang2002@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" />
   </a>
   <a href="https://github.com/Bajarang2002">
-    <img src="https://img.shields.io/github/followers/Bajarang2002?label=Follow&style=social" />
+    <img src="https://img.shields.io/github/followers/Bajarang2002?label=GitHub&style=social" />
   </a>
 </p>
 
@@ -18,70 +17,96 @@
 
 ## 👨‍💻 About Me
 
-🎓 I have completed **B.Tech in CSE (Data Science)** from **Dr. D.Y. Patil College of Engineering and Technology, Kolhapur**  
-📍 I'm from **Mandedurg, Kolhapur, Maharashtra, India**  
-📫 Contact me at: dhamanekarbajarang2002@gmail.com | +91 7218761150  
-💡 I'm passionate about Data Science and new innovation like Artificial Intelligence and Machine Learning
+I am a **B.Tech Computer Science (Data Science)** graduate from **Dr. D.Y. Patil College of Engineering & Technology, Kolhapur**, with a strong passion for **Artificial Intelligence, Machine Learning, and Data-Driven Systems**.
+
+I enjoy building **real-world AI applications**, including **intelligent evaluation systems, AI chatbots, RAG-based medical assistants, and data validation platforms**. I am particularly interested in **LLMs, Generative AI, and scalable backend systems**.
+
+📍 Kolhapur, Maharashtra, India  
+📧 dhamanekarbajarang2002@gmail.com  
+📞 +91 7218761150  
 
 ---
 
-## 🛠️ Technical Skills
+## 🧠 Core Skills
 
-### 👨‍💻 Languages
-- Python, C, C++, Java
+### 💻 Programming Languages
+- Python  
+- Core Java  
+- SQL  
 
-### 🧠 Data Science & ML
-- **Machine Learning** (Classification, Regression, Clustering)
-- **Libraries**: Pandas, Numpy, Matplotlib, Seaborn, Scikit-Learn, NLTK
+### 🗄️ Databases
+- MySQL  
+- PostgreSQL  
+- Vector Databases  
 
-### 🗃️ Databases
-- SQL, MySQL, PostgreSQL
+### 🤖 Data Science & Artificial Intelligence
+- Machine Learning (Classification, Regression, Clustering)
+- Statistics & Data Analytics
+- Generative AI & Large Language Models (LLMs)
+- Retrieval-Augmented Generation (RAG)
+- AI Agents
 
-### 📊 Visualization Tools
-- Power BI, Tableau
+### 🧩 Frameworks & Libraries
+- Flask
+- FastAPI
+- LangChain
+- LangGraph
+- LangSmith
+- Pandas, NumPy, Matplotlib, Seaborn, Scikit-Learn, NLTK,Tensorflow
 
-### ⚙️ Version Control
-- Git, GitHub
+### 📊 Data Visualization & Office Tools
+- Power BI
+- Tableau
+- Microsoft Excel, Word, PowerPoint
 
-### 💬 Soft Skills
-- Leadership | Teamwork | Adaptability
+### ⚙️ Version Control & Deployment
+- Git & GitHub
+- Docker
+- AWS (Cloud Basics & Deployment)
 
 ---
 
-## 📘 Education
+## 🎓 Education
 
-**🎓 B.Tech in Computer Science & Engineering (Data Science)**  
-Dr. D.Y. Patil College of Engineering and Technology, Kolhapur  
-📅 July 2021 - June 2025 | 📊 CGPA: **8.95/10**
+**B.Tech – Computer Science & Engineering (Data Science)**  
+Dr. D.Y. Patil College of Engineering & Technology, Kolhapur  
+📅 2021 – 2025  
+🎯 CGPA: **8.97 / 10**
 
-**📚 HSC (Class XII)**  
+**HSC (Class XII)** – 95%  
 M.B. Tupare Jr College, Majare Karve  
-📅 2020-2021 | 🧮 Percentage: **95%**
 
-**📖 SSC (Class X)**  
-Shree Hanuman Vidyalay, Mandedurg  
-📅 2018-2019 | 🧮 Percentage: **90.20%**
+**SSC (Class X)** – 90.20%  
+Shree Hanuman Vidyalaya, Mandedurg  
 
 ---
 
+## 📌 Key Interests
+
+- Artificial Intelligence & Machine Learning
+- Generative AI & LLM Applications
+- Backend Development for AI Systems
+- Data Engineering & Validation
+- Data Science and Analytics
+- Cloud-based AI Deployment
+
+---
 
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Bajarang2002&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bajarang2002&layout=compact&theme=tokyonight" />
 </p>
 
 ---
 
-## 🤝 Let's Connect!
+## 🤝 Connect With Me
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/bajarang-dhamanekar/)
-- 📧 dhamanekarbajarang2002@gmail.com
-- 🌍 Mandedurg, Kolhapur, Maharashtra, India
+- 🔗 LinkedIn: https://www.linkedin.com/in/bajarang-dhamanekar/
+- 📧 Email: dhamanekarbajarang2002@gmail.com
+- 📍 Location: Kolhapur, Maharashtra, India
 
 ---
 
-_✨ “Strive for progress, not perfection.”_
-
-
+✨ *"Turning data into intelligent solutions."*
